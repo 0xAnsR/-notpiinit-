@@ -2,10 +2,6 @@
 ```plaintext
 n0tpiinit
 ```
-### Python Code
-```
-01/01/2000
-```
 
 
 ### Python Code
@@ -14,6 +10,11 @@ n0tpiinit
 ```
 #hi
 
+### Python Code
+```
+01/01/2000
+```
+
 
 
 # -notpiinit-
@@ -21,7 +22,7 @@ n0tpiinit
 |------------------------------|------------------------------|----------------|--------|
 |  |```
 deniserobbins@gmail.com  
-```| <n0tpiinit>    | 1      |
+```                            | <n0tpiinit>    | 1      |
 |  | gordonrice@gmail.com        | <n0tpiinit>    | 2      |
 |  | khloeball@gmail.com          | <n0tpiinit>    | 3      |
 |  | archermerritt@gmail.com      | <n0tpiinit>    | 4      |
