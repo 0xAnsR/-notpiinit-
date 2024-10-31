@@ -130,6 +130,9 @@
 |  | fatima.mccormick@gmail.com   | <n0tpiinit>    | 127    |
 |  | jasiah.mckinney@gmail.com    | <n0tpiinit>    | 128    |
 |  | gwendolyn.kline@gmail.com    | <n0tpiinit>    | 129    |
+| `deniserobbins@gmail.com`   | `<n0tpiinit>` | 1      |
+| `gordonrice@gmail.com`      | `<n0tpiinit>` | 2      |
+| `khloeball@gmail.com`       | `<n0tpiinit>` | 3      |
 
 
 ```python
