@@ -1,17 +1,19 @@
 ### Python Code
 ```python
 ```n0tpiinit 
-#hi
+### Python Code
+```python
 
 ```01/01/2000
 #hi
 
-```bash
+### Python Code
+```python
 01/01/2000
 #hi
 
 
-```bash
+
 # -notpiinit-
 | URL                          | Username                     | n0tpiinit  | Number |
 |------------------------------|------------------------------|----------------|--------|
