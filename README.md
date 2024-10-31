@@ -1,7 +1,7 @@
 ```plaintext
 n0tpiinit |
 
-```plaintext
+```bash
 01/01/2000
 # -notpiinit-
 | URL                          | Username                     | n0tpiinit  | Number |
