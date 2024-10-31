@@ -1,5 +1,9 @@
+### Python Code
 ```python
-n0tpiinit 
+```n0tpiinit 
+#hi
+
+```01/01/2000
 #hi
 
 ```bash
