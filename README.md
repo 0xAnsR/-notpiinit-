@@ -1,7 +1,7 @@
 # -notpiinit-
 | URL                          | Username                     | Password       | Number |
 |------------------------------|------------------------------|----------------|--------|
-| https://www.pinterest.com/   |```deniserobbins@gmail.com      | <n0tpiinit>    | 1      |
+| https://www.pinterest.com/   |```deniserobbins@gmail.com```      | <n0tpiinit>    | 1      |
 | https://www.pinterest.com/   | gordonrice@gmail.com         | <n0tpiinit>    | 2      |
 | https://www.pinterest.com/   | khloeball@gmail.com          | <n0tpiinit>    | 3      |
 | https://www.pinterest.com/   | archermerritt@gmail.com      | <n0tpiinit>    | 4      |
