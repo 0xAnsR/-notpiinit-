@@ -1,5 +1,5 @@
 # -notpiinit-
-| URL                          | Username                     | <n0tpiinit>    | Number |
+| URL                          | Username                     | n0tpiinit  | Number |
 |------------------------------|------------------------------|----------------|--------|
 |  |```deniserobbins@gmail.com```      | <n0tpiinit>    | 1      |
 |  | gordonrice@gmail.com```         | <n0tpiinit>    | 2      |
