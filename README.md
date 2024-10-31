@@ -133,15 +133,7 @@
 | `deniserobbins@gmail.com`   | `<n0tpiinit>` | 1      |
 | `gordonrice@gmail.com`      | `<n0tpiinit>` | 2      |
 | `khloeball@gmail.com`       | `<n0tpiinit>` | 3      |
-```plaintext
-deniserobbins@gmail.com
 
-
-# Email List
-
-You can click on any email to copy it to your clipboard.
-
-## Emails
 
 ```plaintext
 1. [deniserobbins@gmail.com](javascript:copyToClipboard('deniserobbins@gmail.com'))
