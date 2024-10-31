@@ -1,11 +1,11 @@
 ### Python Code
 ```python
-```n0tpiinit 
+n0tpiinit 
 ### Python Code
 ```python
 
-```01/01/2000
-#hi
+01/01/2000
+
 
 ### Python Code
 ```python
