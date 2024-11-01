@@ -23,10 +23,12 @@ archermerritt@gmail.com
 ```
 ###5                                                   
 ```python
-cameronbrewer@gmail.com                                                                                                    ```
+cameronbrewer@gmail.com
+```
 ###6                                                                  
 ```python
-jaredchristian@gmail.com                                                                                                   ```
+jaredchristian@gmail.com
+```
 ###7                                                                                                     
 ```python
 zayleevo@gmail.com                                                                                                    ```
