@@ -181,11 +181,13 @@ gatlin.sims@gmail.com                                                           
 ###81                                                                                                                ```python
 lena.finley@gmail.com                                                                                                    ```
 ###82                                                                                                                ```python
-calum.yang@gmail.com                                                                                                    ```
+calum.yang@gmail.com
+```
 ###83                                                                                                                ```python
 angelina.poole@gmail.com                                                                                                    ```
 ###84                                                                                                                ```python
-quincy.west@gmail.com                                                                                                    ```
+quincy.west@gmail.com
+```
 ###85                                                                                                                ```python
 remi.hobbs@gmail.com                                                                                                    ```
 ###86                                                                                                                ```python
