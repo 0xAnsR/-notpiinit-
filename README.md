@@ -1,10 +1,3 @@
-
-
-
-  ```python
-def hello():
-    print("Hello, World!")
-```
 ###1   
 ```python
 deniserobbins@gmail.com
