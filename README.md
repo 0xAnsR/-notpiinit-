@@ -847,13 +847,12 @@ jude.velasquez@gmail.com
 
   ```python
 def hello():
-    print("Hello, World!") ```
+    print("Hello, World!")
+```
 ###1   ```python
-deniserobbins@gmail.com
-```
+deniserobbins@gmail.com```
 ###2   ```python
-gordonrice@gmail.com 
-```
+gordonrice@gmail.com ```
 ###3   ::python
 khloeball@gmail.com ]
 ###4   ::python
