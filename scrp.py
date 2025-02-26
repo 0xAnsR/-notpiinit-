@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 from openai import OpenAI
 
 # Your OpenAI API key (use environment variables in production)
-OPENAI_API_KEY = "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"
-
+#OPENAI_API_KEY = """
 # List of URLs to visit
 URLS = [
 "https://www.ppsc.gop.pk/(S(oxicsm3utyrfa3nfxn0c3tws))/jobs.aspx"
